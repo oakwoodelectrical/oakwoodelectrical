@@ -1,4 +1,4 @@
-## Hi there 👋
+## demo of a website soon to be hosted on a real website hosting site
 
 <!--
 **oakwoodelectrical/oakwoodelectrical** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
